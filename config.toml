@@ -1,0 +1,9 @@
+baseURL = "https://shafyy.com/"
+theme = "hugo-journal"
+languageCode = "en-us"
+title = "shafyy's blog"
+
+[params]
+  description = "Blog meta description."
+  twitterUsername = "canolcer"
+  #tagline = "What I think about stuff."
