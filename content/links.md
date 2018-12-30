@@ -18,6 +18,6 @@ Here's a collection of links that I find interesting. In no particular order.
 
 [Marginal Revolution](https://marginalrevolution.com/) - Blog of Tyler Cowen
 
-If you feel like I should a link here, [tell me](/about).
+If you feel like I should add a link here, [tell me](/about).
 
 
