@@ -25,20 +25,30 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Arvo:400,700">
     <link rel="stylesheet" href="{{ "css/highlight.css" | relURL }}">
     <link rel="stylesheet" href="{{ "css/journal.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/app.css" | relURL }}">
     <link href="{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
 
   </head>
 
   <body>
     <div class="container">
-
-      {{ if .IsHome -}}
       <header class="site-header">
-        <h1>{{ .Site.Title }}</h1>
-        <p>{{ .Site.Params.tagline }}</p>
+          <h1>{{ .Site.Title }}</h1>
+          <p>{{ .Site.Params.tagline }}</p>
+        <div class="nav-items">
+           <a href="/" class="nav-item">
+              Blog
+            </a>
+          {{ range .Site.Menus.main }}
+            <a href={{ .URL }} class="nav-item">
+              {{ .Title }}
+            </a>
+          {{ end }}
+        </div>
       </header>
-      {{- else -}}
-      <nav class="site-nav">
-        <a href="{{ .Site.BaseURL }}">Index</a>
+
+      {{ if not .IsHome -}}
+        <nav class="site-nav">
+        <a href="{{ .Site.BaseURL }}">Back</a>
       </nav>
       {{- end }}
