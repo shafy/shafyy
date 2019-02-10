@@ -4,6 +4,6 @@ languageCode = "en-us"
 title = "shafyy's blog"
 
 [params]
-  description = "Blog meta description."
+  description = "shafyy's personal blog where he rambles on about technology, startups, and other fun topics. You should check it out."
   twitterUsername = "canolcer"
   #tagline = "What I think about stuff."
