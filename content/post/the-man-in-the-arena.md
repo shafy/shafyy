@@ -11,6 +11,6 @@ The credit belongs to the man who is actually in the arena, whose face is marred
 
 I'm not the first one to post this. But it's worth reposting. As an entrepreneur, this a passage resonates strongly with me. It helps me keep my shit together and focus on getting work done when I'm in one of the "WTF am I doing here anyways?" phases.
 
-In my life, I'd rather work 10, 20 or 30 years towards a goal that I'm convinced will make a huge positive impact on society AND be wrong and then work a single day for something that doesn't have meaning.
+In my life, I'd rather work 10, 20 or 30 years towards a goal that I'm convinced will make a huge positive impact on society and be wrong rather than work a single day for something that doesn't have meaning.
 
 To my fellow entrepreneurs: Ignore those timid soulds who stand on the sidelines and doubt you, make fun of you or try to give you advice. Surround yourself with people who are also in the arena, and work towards what *you* think is true. That's the only thing that counts in this short life.
