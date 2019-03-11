@@ -4,7 +4,7 @@ date: 2019-03-10T17:25:00-08:00
 draft: false
 ---
 
-We're in the second wave virtual reality.
+We're in the second wave of virtual reality.
 
 People are trying to make VR happen since the 1960s. In the 1990s, a lot of people thought it's going to final happen. It didn't. The end of the first wave left a lot of investors, entrepreneurs and consumers distraught at VR. The well has been poisoned.
 
