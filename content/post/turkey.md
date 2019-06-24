@@ -4,7 +4,7 @@ date: 2019-06-24T17:45:00+03:00
 draft: false
 ---
 
-In the summer of 2017 my co-founder and I moved to San Francisco from Zurich, Switzerland. We're both Swiss. Well, that's not completely true. She also holds a German passport and I hold a Turkish one. While I was born and raised in Switzerland, my parents are both Turkish.
+In the summer of 2017 my co-founder and I moved to San Francisco from Zurich, Switzerland to build [Kosmos School](https://kosmosschool.com/). We're both Swiss. Well, that's not completely true. She also holds a German passport and I hold a Turkish one. While I was born and raised in Switzerland, my parents are both Turkish.
 
 For this story, it's also important to note that I speak Turkish pretty fluently, and that my co-founder is also my partner and that we don't have any kids. We do have a cat though, but that's easier to move from country to country.
 
