@@ -20,4 +20,4 @@ Some quick background: The Oculus Go and Quest run Android and allow accessing y
 
 **Voilà**. Open your favorite browser or app on your headset and see if it works.
 
-Let me know which VPN providers worked and didn't work in your case, so I can add it to this post.
+Let me know which VPN providers worked and didn't work in your case, so I can add it to this post. Discussion, questions and comments on [this tweet](https://twitter.com/canolcer/status/1155080790977515520).
