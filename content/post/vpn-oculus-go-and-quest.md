@@ -4,7 +4,7 @@ date: 2019-07-27T13:02:00+03:00
 draft: false
 ---
 
-This is pretty straight-forward. The basic idea is that you get your VPN provider's Android app and install it on your Oculus Go or Quest. Of course, this means that your VPN service needs to offer an Android app in the first place. BEWARE, I only tested with [NordVPN](https://nordvpn.com/) so far.
+This is pretty straight-forward. The basic idea is that you get your VPN provider's Android app and install it on your Oculus Go or Quest. Of course, this means that your VPN service needs to offer an Android app in the first place. BEWARE, I only tested with [NordVPN](https://nordvpn.com/) on my Oculus go so far. However, other users report other VPN apps working also on the Go and Quest.
 
 Let's get started.
 
