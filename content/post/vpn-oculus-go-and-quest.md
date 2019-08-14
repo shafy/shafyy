@@ -8,6 +8,7 @@ This is pretty straight-forward. The basic idea is that you get your VPN provide
 
 *Edit (July 27, 2019): User reports on VPN apps working on the Quest are controversial (some say it works, while some say it doesn't). Will keep this post up-to-date.*
 
+*Edit (August 14, 2019): Based on my own test, NordVPN doesn't work on the Quest. This probably means other VPNs also don't work.*"
 
 Let's get started.
 
