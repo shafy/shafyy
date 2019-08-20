@@ -12,7 +12,7 @@ Let me focus on startups though, that's where I feel at home the most.
 
 When you run a startup, a lot of people will give you advice. A lot lot. Most people suck at giving advice, so they just give you an example. Ex-post advice. An empirical case study.
 
-They say shit like "why don't you do the Tesla strategy, start with a small but premium market, and then move to a lower but bigger market". Or "Airbnb growth hacked Craigslist to link to their own website. And did you now that the founders lived with their users. You should do that, too!""
+They say shit like "why don't you do the Tesla strategy, start with a small but premium market, and then move to a lower but bigger market". Or "Airbnb growth hacked Craigslist to link to their own website. And did you know that the founders lived with their users. You should do that, too!""
 
 Growth hacking, ugh.
 
