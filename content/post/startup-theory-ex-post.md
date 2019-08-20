@@ -26,3 +26,5 @@ Great, now I'm starting to sound like Shia LaBeouf.
 
 My point is - if it doesn't work out, at least it didn't work out on the terms you set.
 
+Comments or just want to tell me that I suck? Great, please post to this [Twitter thread](https://twitter.com/canolcer/status/1163872555251490816).
+
