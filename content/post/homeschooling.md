@@ -24,4 +24,5 @@ I'm also not saying that people should not build companies around homeschooling,
 
 Obviosuly, I believe that the future of K-12 education will be primarily online. But as I mentioned in the beginning, that's not called homeschooling, that's just called a virtual or online school.
 
+Go to [this Twitter thread](https://twitter.com/canolcer/status/1165717158988529664) to let me know what you think or just to insult random people on Twitter.
 
