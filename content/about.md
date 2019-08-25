@@ -6,7 +6,7 @@ type: "standard"
 draft: false
 ---
 
-My name is Can Olcer. Currently, I'm running a startup that I co-founded called [Kosmos School](https://kosmosschool.com) based in San Francisco. Our ultimate goal is to build a K-12 school that exists only in virtual reality.
+My name is Can Olcer. Currently, I'm running a startup that I co-founded called [Kosmos School](https://kosmosschool.com). Our ultimate goal is to build a K-12 school that exists only in virtual reality.
 
 I was born and raised in Zurich, Switzerland. Both my parents are Turkish and moved to Switzerland when they were kids. This makes me Turkish and Swiss.
 

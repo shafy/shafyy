@@ -16,8 +16,6 @@ Here's a collection of links that I find interesting. In no particular order.
 
 [Conversations with Tyler](https://conversationswithtyler.com/) - Podcast of Tyler Cowen, famous economist
 
-[Marginal Revolution](https://marginalrevolution.com/) - Blog of Tyler Cowen
-
 If you feel like I should add a link here, [tell me](/about).
 
 
