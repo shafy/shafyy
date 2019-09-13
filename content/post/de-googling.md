@@ -4,7 +4,7 @@ date: 2019-09-12T21:30:00+03:00
 draft: false
 ---
 
-I don't like where we are with mega corporations like Google, Facebook, Amazon, and so on. I don't have anything against the people who work their, but I have a problem with how these people as a collective make decisions.
+I don't like where we are with mega corporations like Google, Facebook, Amazon, and so on. I don't have anything against the people who work there, but I have a problem with how these people as a collective make decisions.
 
 They have undoubtedly contributed a ton to technological innovation and created a great amount of welfare. Unfortunately, decisions they made also led to negative outcomes for a lot of people.
 
