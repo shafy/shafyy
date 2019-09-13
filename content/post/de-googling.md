@@ -30,3 +30,6 @@ There's one more thing you can do: Start your own company and compete with parts
 
 Let's build a future where we have a lot of small companies instead of a few big ones.
 
+Check out [this Twitter thread](https://twitter.com/canolcer/status/1172484597449396226) to participate in the discussion.
+
+
