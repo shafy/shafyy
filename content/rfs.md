@@ -23,4 +23,4 @@ Meat production has a greater negative impact on the environment than cars and p
 ## VR developer tools and libraries
 The VR developer ecosystem is still immature compared to web or mobile development. This is especially true for standalone VR. Coming up with tools that help developers create faster and more reliably has a tremendous impact on how quickly great VR software is shipped. For example, if you're on Mac OS and are developing for the Oculus Quest, you need to build and deploy to your device every time you make a change to your code. Compare that with hot-loading when developing for smartphones with React Native, which let's you see your changes instantaneously.
 
-This is also true for libraries, including keyboards and UI layouts (such as popups and buttons).
+This is also true for libraries, including keyboards and UI layouts (such as pop-ups and buttons).
