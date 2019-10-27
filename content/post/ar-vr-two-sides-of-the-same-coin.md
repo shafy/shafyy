@@ -24,4 +24,6 @@ Most AR headsets overlay virtual graphics on the real world by projecting light 
 
 Finally, Karl Kuttag has a more technical deep dive for the [Magicleap](https://www.kguttag.com/2018/09/26/magic-leap-review-part-1-the-terrible-view-through-diffraction-gratings/) and the [Hololens](https://www.kguttag.com/2016/10/27/armr-combiners-part-2-hololens/) if you're interested.
 
+Feel free to join the discussion on this [Twitter thread](https://twitter.com/canolcer/status/1188558202465640449).
+
 
