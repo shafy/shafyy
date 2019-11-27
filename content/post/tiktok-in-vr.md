@@ -25,7 +25,7 @@ These are just some thought experiments. The future is hard to predict. Who woul
 
 What is clear to me is that VR will enable more social interactions than ever before.
 
-Let me know what you think and join the discussion in this [Twitter thread](https://twitter.com/canolcer/status/1199804158687219712?s=20).
+Let me know what you think and join the discussion in this [Twitter thread](https://twitter.com/canolcer/status/1199804158687219712).
 
 
 
