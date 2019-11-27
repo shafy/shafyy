@@ -6,13 +6,15 @@ type: "standard"
 draft: false
 ---
 
-My name is Can Olcer. Currently, I'm running a startup that I co-founded called [Kosmos School](https://kosmosschool.com). Our ultimate goal is to build a K-12 school that exists only in virtual reality.
+My name is Can Olcer. I'm a software engineer and entrepreneur. Currently, I'm running a startup that I co-founded called [Kosmos School](https://kosmosschool.com). Our mission is to prove that virtual reality is a key technology to significantly improve K-12 education.
 
 I was born and raised in Zurich, Switzerland. Both my parents are Turkish and moved to Switzerland when they were kids. This makes me Turkish and Swiss.
 
-Before founding Kosmos, I co-founded a startup in Zurich called [Chimpy](https://heychimpy.com/). I studied economics, finance and business at the [University of St. Gallen](https://en.wikipedia.org/wiki/University_of_St._Gallen) but have been doing software engineering for the past ~10 years.
+Before founding Kosmos, I co-founded a startup in Zurich called [Chimpy](https://heychimpy.com/).
 
 You can reach me here: can@kosmosschool.com
+
+[Visitor statistics on the excellent Simple Analytics](https://simpleanalytics.com/shafyy.com)
 
 [Why did I start this blog and why is it called shafyy?](/post/what-is-this/)
 
