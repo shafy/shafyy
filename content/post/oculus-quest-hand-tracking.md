@@ -22,3 +22,5 @@ The Quest has catapulted VR to yet another level in its 9 months of existence. I
 Hand tracking will accelerate what the Quest has started. And please spare me the hate from gamers. Yes, there's still a use case for controllers if you want to play serious games and hand tracking is not going to replace that. The point is that for a lot of applications outside of gaming, you don't need controllers.
 
 Facebook's goal is to get 1 billion people into VR, and it seems like they are taking steps towards it. It's paramount that VR as a computing platform sees more adoption outside of gaming, across education, productivity and social. Hand tracking, I'm convinced, will be an important force in this regard.
+
+Join the discussion on this [Twitter thread](https://twitter.com/canolcer/status/1204120677667786759).
