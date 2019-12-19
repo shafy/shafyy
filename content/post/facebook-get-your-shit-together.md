@@ -12,5 +12,6 @@ The question is why does Facebook keep fucking up? I don't think it's because th
 
 If Facebook wants to keep doing great things, they need to change their incentives. What is more, they have a chance to take on a leadership position and help define how the future of online ads and privacy will look like. Because this definitely can't be it.
 
-
 Maybe their VR push can be a part of that new incentive structure. Making money from selling headsets and taking a cut off the software sales in their app stores surely aligns their incentives more with the customers'. A couple of days ago, Facebook [announced](https://www.oculus.com/blog/introducing-new-features-from-facebook-to-help-people-connect-in-vr-and-an-update-to-our-privacy-policy/) that they will start showing ads to Oculus users. This is not necessarily a bad thing, as it might help app developers to reach their target audience, as [John Carmack also pointed out](https://twitter.com/ID_AA_Carmack/status/1204938669603340295). The key here is that they use ads to help developers reach more people, and not primarily to make a lot of cash of it.
+
+Let me know what you think in this [Twitter thread](https://twitter.com/canolcer/status/1207804179152019456).
