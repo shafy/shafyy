@@ -10,7 +10,7 @@ This is pretty straight-forward. The basic idea is that you get your VPN provide
 
 *Edit (August 14, 2019): Based on my own test, NordVPN doesn't work on the Quest. This probably means other VPNs also don't work.*
 
-*Edit (December 22, 2019): If you want to help bring VPN capabilities for the Quest to Oculus' attention, make sure to [upvote this on their Uservoice](https://oculus.uservoice.com/forums/921937-oculus-quest/suggestions/37841701-install-a-vpn) (they've implemented many requested features from there already)
+*Edit (December 22, 2019): If you want to help bring VPN capabilities for the Quest to Oculus' attention, make sure to [upvote this on their Uservoice](https://oculus.uservoice.com/forums/921937-oculus-quest/suggestions/37841701-install-a-vpn) (they've implemented many requested features from there already)*
 
 
 Let's get started.
