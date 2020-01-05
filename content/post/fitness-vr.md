@@ -19,3 +19,5 @@ _VR makes working out more precise._ Undoubtedly, all the home work out videos o
 _VR makes working out significantly cheaper._ All you need is a $399 Quest and a $10-$30 app. You don't need to have a gym membership or pay a personal trainer. "But", you whine, "a personal trainer is much better than a VR app". No shit, Sherlock? However, VR still gives you some feedback, is more fun than hanging out with a jacked dude, and costs considerably less.
 
 But the biggest impact of VR on fitness is the same impact VR has on all areas: It's an equalizer. It let's you do stuff that you couldn't do before or not at the same convenience and price point. Be it watching a movie on a huge ass theater screen, taking a virtual trip to a Smithsonian museum or the ISS, hanging out with your friends, learning about electrical engineering or punching another dude in the face for the sake of working out.
+
+Let know what you think on this [Twitter thread](https://twitter.com/canolcer/status/1213923175223963649).
