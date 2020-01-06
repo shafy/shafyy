@@ -12,7 +12,7 @@ Before that, I never liked working out. Since working out in VR, I do it almost 
 
 Anyways. This, of course, is just a personal anecdote. But let's look at it more objectively to see why I believe that VR fitness will be important.
 
-_VR makes working out more fun._ Hitting those blobs in Box VR as they come toward you (kind of like Beat Saber) with the right type of punch is just more fun then shadow boxing the air in front of like a maniac. In The Thrill of the Fight, time just passes more quickly when you're trying not to get hit in the face by the 2 meter tall scary dude in front of you.
+_VR makes working out more fun._ Hitting those blobs in Box VR as they come toward you (kind of like Beat Saber) with the right type of punch is just more fun then shadow boxing the air in front of you like a maniac. In The Thrill of the Fight, time just passes more quickly when you're trying not to get hit in the face by the 2 meter tall scary dude in front of you.
 
 _VR makes working out more precise._ Undoubtedly, all the home work out videos on the internet had a great impact on people's fitness, too. However, they miss the feedback aspect - they can't tell if you're doing it right or wrong. In VR, this is already better possible because it can tell if you just threw a jab or upper cut (yes, you should be impressed by my boxing jargon), or if you squatted or not. Obviously, it can't tell if you did the squat right, but we'll get there.
 
