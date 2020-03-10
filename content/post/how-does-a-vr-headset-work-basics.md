@@ -40,6 +40,8 @@ Stand-alone headsets are extremely resource-constrained, meaning that they need 
 
 Obviously, there are many more parts that make up a VR headset and one could fill a huge number of pages for each one of them. In this post, I gave an overview of the components that I think are the most interesting and important ones. In future posts, I will focus on single topics mentioned here, describing and explaining them in more technical detail.
 
+Questions? Join in the discussion on [Twitter](https://twitter.com/canolcer/status/1237496747871567880).
+
 <br />
 *Sources:*
 
