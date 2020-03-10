@@ -6,7 +6,7 @@ draft: false
 
 In this blog post series, I dive into the technical details of virtual reality headsets and try to explain as simply as possible how they work. This first part aims to give a general overview of the basics of VR headsets. The subsequent parts will then focus on specific aspects.
 
-Hopefully, this series brings you the core concepts behind VR closer and gives you an idea of how VR will continue develop in the near future and what the challenges are.
+Hopefully, this series brings you the core concepts behind VR closer and gives you an idea of how VR will continue to develop in the near future and what the challenges are.
 
 I'm going to focus on 6 degrees of freedom (DoF), stand-alone (also called mobile, or all-in-one) VR headsets such as the Oculus Quest or the HTC Vive Focus. These are headsets that don't need a PC or external sensors to run. Of course, a lot of the technology in stand-alone and PC VR headsets are similar. The main difference is that PC VR headsets rely on the CPU and GPU of the connected computer to do the heavy lifting, and therefore are more powerful. In stand-alone headsets, everything is done on-board.
 
@@ -18,7 +18,7 @@ A VR headsets contains a lot of parts that other computers (such as laptops and 
 
 # Optical lenses and screens
 
-Unlike the 2D screens we are used to on our laptops and phones, a VR headset needs to our eyes and brain to think that we are in a different 3D virtual world. This is done with optical lenses.
+Unlike the 2D screens we are used to on our laptops and phones, a VR headset needs our eyes and brain to think that we are in a different 3D virtual world. This is done with optical lenses.
 
 Fundamentally, VR headsets use normal screens. For example, the Quest has an OLED screen, while the Oculus Rift S has an LCD screen. That screen is located only a couple of centimeters in front of your eyes, but the lenses distort the photons that are emitted from the screen, changing the path of the light and the angle they hit your eyes. Your brain uses a variety of cues to orient itself in space. VR headsets simulate these cues to create the feeling of immersion.
 
@@ -28,7 +28,7 @@ For example the Oculus Quest has a binocular horizontal FoV of about 95° (binoc
 
 # Tracking
 
-6 DoF headsets need know your position and your rotation in 3D space so that they can move you in the virtual world you are seeing accordingly. The six in 6 DoF comes from the fact that there are three degrees of freedom related to translation, and three related to rotation (translation and rotation around x, y, and z axes in 3D space).
+6 DoF headsets need to know your position and your rotation in 3D space so that they can move you in the virtual world you are seeing accordingly. The six in 6 DoF comes from the fact that there are three degrees of freedom related to translation, and three related to rotation (translation and rotation around x, y, and z axes in 3D space).
 
 Until not so long ago, headsets had to rely on external sensors for positional tracking. Newer stand-alone headsets like the Oculus Quest don't need that. Rather, they use cameras that are integrated in the headset. With advances in machine learning, specifically computer vision, it is now amazingly possible to get enough positional information from the cameras. Simply said, based on the camera images, the headset knows where you are in a room and how you move through it. Furthermore, it also knows where your controller and hands are, and knows it well enough to use that information to represent them seemlessly in VR. In addition to cameras, other types of sensors such as accelerometers and gyroscopes are used.
 
