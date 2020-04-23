@@ -24,4 +24,7 @@ The Quest's video feed is not yet perfect for AR, as the video is distorted at t
 I'm exteremly excited about this direction, because AR-features are clearly a must have if we want to see a more widespread adoption of AR and VR, especially in the office environment and for other use cases outside of gaming. If you've got a Quest, check it out and you'll see how different the feeling is when browsing in full VR and browsing in AR.
 
 
+Join the discussion in this [Twitter thread](https://twitter.com/canolcer/status/1253375217185042432).
+
+
 1: [AR and VR are two sides of the same coin](/post/ar-vr-two-sides-of-the-same-coin/)
