@@ -6,7 +6,7 @@ type: "standard"
 draft: false
 ---
 
-My name is Can Olcer. I'm a software engineer and entrepreneur. I'm working on a fun educational VR game (at [Kosmos School](https://kosmosschool.com), together with [Dorena](https://twitter.com/dorenanagel)).
+My name is Can Olcer. I'm a software engineer and entrepreneur. I create nerdy VR games (at [Kosmos School](https://kosmosschool.com), together with [Dorena](https://twitter.com/dorenanagel)).
 
 We also run a side project called [Froggodoggo](https://froggodoggo.com) that brings together founders looking for a side gig to finance their startup and companies looking to hire them as part-time software engineers.
 
