@@ -10,4 +10,4 @@ Facebook has already announced that OC7 will happen in a digital format due to t
 
 Horizon is poised to launch some time this year, and it would make a lot of sense for them to make sure it's live for OC7 and use it to host it, too.
 
-What do you think? 
+What do you think? Let me know on this [Twitter thread](https://twitter.com/canolcer/status/1259540761638559744).
