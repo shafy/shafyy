@@ -42,3 +42,6 @@ If you're an entrepreneur and want to make educational products or services, don
 
 Something that let's them find their spark.
 
+
+Join in on the discussion on this [Twitter thread](https://twitter.com/canolcer/status/1274993117427642374).
+
