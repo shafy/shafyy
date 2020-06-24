@@ -38,5 +38,5 @@ In this time frame we'll also see a shift of the main use cases for VR. While th
 
 To truly enable more fitness, social and productivity apps, Oculus needs to hurry up with the next generation of their headsets. To make VR more mainstream, we need more comfortable and lighter headsets. Let's see what the future brings. 
 
-
+As always, join in on the discussion on this [Twitter thread](https://twitter.com/canolcer/status/1275769399434190849).
 
