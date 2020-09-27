@@ -6,17 +6,14 @@ type: "standard"
 draft: false
 ---
 
-My name is Can Olcer. I'm a software engineer and entrepreneur. I create nerdy VR games (at [Kosmos School](https://kosmosschool.com), together with [Dorena](https://twitter.com/dorenanagel)).
+Hey hey! My name is Can Olcer. I make plant-based cheese ([Yeti](https://yeticheese.com)).
 
-
-Before starting Kosmos School, I co-founded a company based in Zurich called [Chimpy](https://heychimpy.com/).
+Previously I co-founded a company based in Zurich called [Chimpy](https://heychimpy.com) and also tried to make a school that exists only in VR (which didn't work out).
 
 I was born and raised in Zurich, Switzerland.
 
-You can contact me here: can@kosmosschool.com
+You can contact me here: canolcer@hey.com
 
 [Visitor statistics on the excellent Simple Analytics](https://simpleanalytics.com/shafyy.com)
-
-[Why did I start this blog and why is it called shafyy?](/post/what-is-this/)
 
 [Open-sourced repository of this website on Github](https://github.com/shafy/shafyy)

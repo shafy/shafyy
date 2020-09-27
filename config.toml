@@ -1,9 +1,9 @@
-baseURL = "https://shafyy.com/"
+baseURL = "https:/canolcer.com/"
 theme = "hugo-journal"
 languageCode = "en-us"
-title = "shafyy's blog"
+title = "Can's blog"
 
 [params]
-  description = "shafyy's personal blog where he rambles on about technology, startups, and other fun topics. You should check it out."
+  description = "Can's thoughts and opinions on the world."
   twitterUsername = "canolcer"
   #tagline = "What I think about stuff."

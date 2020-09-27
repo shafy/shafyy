@@ -28,3 +28,10 @@ HUGO_VERSION = "0.48"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+
+[[redirects]]
+  from = "https://shafyy.com/*"
+  to = "https://canolcer.com/*"
+  status = 301
+  force = true
