@@ -31,7 +31,7 @@ HUGO_ENABLEGITINFO = "true"
 
 
 [[redirects]]
-  from = "https://shafyy.com/*"
+  from = "/*"
   to = "https://canolcer.com/:splat"
   status = 301
   force = true
