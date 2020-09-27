@@ -1,4 +1,4 @@
-baseURL = "https:/canolcer.com/"
+baseURL = "https://canolcer.com/"
 theme = "hugo-journal"
 languageCode = "en-us"
 title = "Can's blog"
