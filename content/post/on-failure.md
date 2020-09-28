@@ -1,6 +1,6 @@
 ---
 title: "On failure"
-date: 2020-09-27T17:34:00+03:00
+date: 2020-09-28T20:28:00+02:00
 draft: false
 ---
 
