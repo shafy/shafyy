@@ -33,10 +33,5 @@
   <script src="{{ "js/highlight.pack.js" | relURL }}"></script>
   <script>hljs.initHighlightingOnLoad();</script>
 
-  {{ if eq (getenv "HUGO_ENV") "production" }}
-    <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
-    <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
-  {{ end }}
-
   </body>
 </html>
