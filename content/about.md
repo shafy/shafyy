@@ -14,6 +14,6 @@ I was born and raised in Zurich, Switzerland.
 
 You can contact me here: canolcer@hey.com
 
-[Visitor statistics on the excellent Simple Analytics](https://simpleanalytics.com/canolcer.com)
+[Visitor statistics on the excellent Plausible Analytics](https://plausible.io/canolcer.com)
 
 [Open-sourced repository of this website on Github](https://github.com/shafy/shafyy)
