@@ -28,7 +28,7 @@ So, what's all this to do with closed and central and what does that even mean?
 
 ## What does it mean?
 
-Let's get more technical. When saying "closed and central social media", I actually to refer to their underlying protocols. A protocol simply is a specification of how two or more parties communicate with each other. Like, what kind of data can be sent, how it is sent, what kind of responses can be expected and so on. Think of it like a set of rules.
+Let's get more technical. When saying "closed and central social media", I actually refer to their underlying protocols. A protocol simply is a specification of how two or more parties communicate with each other. Like, what kind of data can be sent, how it is sent, what kind of responses can be expected and so on. Think of it like a set of rules.
 
 Open protocols are protocols which are defined openly for everyone to see what the rules are. Closed protocols are proprietary and not shared publicly. Centralized protocols only allow one central authority (e.g. server), whereas decentralized protocols allow for servers and services to talk to each other.
 
