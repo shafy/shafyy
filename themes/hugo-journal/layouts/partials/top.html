@@ -32,6 +32,10 @@
       <script async defer data-domain="canolcer.com" src="https://plausible.io/js/plausible.js"></script>
     {{ end }}
 
+    {{ if in .Permalink "/post/" }}
+      <meta name="monetization" content="$ilp.uphold.com/NN8XW67Zenyk">
+    {{ end }}
+
   </head>
 
   <body>
