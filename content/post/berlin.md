@@ -4,7 +4,7 @@ date: 2021-03-16T08:00:00+02:00
 draft: false
 ---
 
-Exactly one year ago, we moved to Berlin. Although I have been here before a couple of times, the city has exceeded all of my expectations. Despite it being lock down for the better part of the last 12 months.
+Exactly one year ago, we moved to Berlin. Although I have been here before a couple of times, the city has exceeded all of my expectations. Despite it being locked down for the better part of the last 12 months.
 
 I've lived in different parts of the world for shorter or longer periods of time (from California to Singapore), and I can confidently say that Berlin is my favorite. In fact, I predict that Berlin will be one of the most important cities of the world.
 
