@@ -35,3 +35,12 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://canolcer.com/:splat"
   status = 301
   force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Permissions-Policy = "interest-cohort=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubdomains; preload"
