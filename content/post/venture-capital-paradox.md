@@ -1,5 +1,5 @@
 ---
-title: "Fuck Venture Capital"
+title: "The Venture Capital Paradox?"
 date: 2021-05-05T18:19:33+02:00
 draft: false
 ---
