@@ -63,7 +63,7 @@ After that, you can just build or serve Jekyll normally with:
 jekyll serve --incremental
 ```
 
-The `keep_files` option is necessary, because otherwise Jekyll will delete our `taiwind.scss` file form the generated site.
+The `keep_files` option is necessary, because otherwise Jekyll will delete our `taiwind.scss` file from the generated site.
 
 Bonus: To make your live easier, add the initial build command to your `package.json` file:
 ```
