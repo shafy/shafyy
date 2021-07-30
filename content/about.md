@@ -10,7 +10,7 @@ Hey hey! My name is Can Olcer. I co-founded a company called [Chimpy](https://he
 
 Previously I created a school that exists only in VR (which didn't work out).
 
-I was born and raised in Zurich, Switzerland.
+I was born and raised in Zurich, Switzerland and currently live in Berlin, Germany.
 
 You can contact me here: canolcer@hey.com
 
