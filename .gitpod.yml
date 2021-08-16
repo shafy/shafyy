@@ -1,4 +1,4 @@
-image: klakegg/hugo:0.83.1
+image: klakegg/hugo:0.83.1-ubuntu
 
 ports:
   # Hugo server
