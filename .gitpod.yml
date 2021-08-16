@@ -1,0 +1,12 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+  # Hugo server
+  - port: 1313
+    onOpen: ignore
+
+github:
+  prebuilds:
+    branches: false
+    pullRequests: true
