@@ -1,0 +1,11 @@
+image: klakegg/hugo:0.83.1-ubuntu
+
+ports:
+  # Hugo server
+  - port: 1313
+    onOpen: ignore
+
+github:
+  prebuilds:
+    branches: false
+    pullRequests: true
