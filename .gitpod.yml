@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: klakegg/hugo:0.83.1
 
 ports:
   # Hugo server
