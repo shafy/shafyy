@@ -6,9 +6,11 @@ type: "standard"
 draft: false
 ---
 
-Hey hey! My name is Can Olcer. I co-founded a company called [Chimpy](https://heychimpy.com) where I'm Head of Product. I also make plant-based cheese ([Yeti](https://yetifoods.de))
+Hey hey! My name is Can Olcer. I'm currently working on two open-source projects: [Fugu](https://github.com/shafy/fugu), a privacy-friendly product analytics software, and [Mapzy](https://github.com/mapzy/mapzy), a store finder.
 
-Previously I created a school that exists only in VR (which didn't work out).
+I also make plant-based cheese ([Yeti](https://yetifoods.de))
+
+Previously I created a school that exists only in VR (which didn't work out) and co-founded a company called [Chimpy](https://heychimpy.com).
 
 I was born and raised in Zurich, Switzerland and currently live in Berlin, Germany.
 
