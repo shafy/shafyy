@@ -7,3 +7,6 @@ title = "Can's blog"
   description = "Can's thoughts and opinions on the world."
   twitterUsername = "canolcer"
   #tagline = "What I think about stuff."
+
+[markup.goldmark.renderer]
+  unsafe= true
