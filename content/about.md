@@ -6,9 +6,9 @@ type: "standard"
 draft: false
 ---
 
-Hey hey! My name is Can Olcer. I'm currently working on two open-source projects: [Fugu](https://github.com/shafy/fugu), a privacy-friendly product analytics software, and [Mapzy](https://github.com/mapzy/mapzy), a store finder.
+Hey hey! My name is Can Olcer. I'm currently working on two open-source projects: [Fugu](https://fugu.lol), a privacy-friendly product analytics software, and [Mapzy](https://github.com/mapzy/mapzy), a store finder.
 
-I also make plant-based cheese ([Yeti](https://yetifoods.de))
+I also make plant-based cheese ([Yeti](https://yetifoods.de)).
 
 Previously I created a school that exists only in VR (which didn't work out) and co-founded a company called [Chimpy](https://heychimpy.com).
 

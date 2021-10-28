@@ -1,4 +1,5 @@
-image: klakegg/hugo:0.83.1-ubuntu
+image:
+  file: .gitpod.Dockerfile
 
 ports:
   # Hugo server
@@ -8,4 +9,4 @@ ports:
 github:
   prebuilds:
     branches: false
-    pullRequests: true
+    pullRequests: false
