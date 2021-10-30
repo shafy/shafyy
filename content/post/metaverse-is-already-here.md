@@ -1,5 +1,5 @@
 ---
-title: "The metaverse is already here, it's called internet"
+title: "The metaverse is already here, it's called the internet"
 date: 2021-10-30T07:27:41Z
 draft: false
 ---
@@ -12,7 +12,7 @@ If you listen to Zuck and other tech demigods, the metaverse will be amazing bec
 
 Wait a minute?! Isn't this how the internet works today? Facebook already tried to create a 2D version of the avatar, Facebook Login. And I can already play multiplayer games with my friends or do video calls with my parents.
 
-The metaverse is already here, and it's called internet.
+The metaverse is already here, and it's called the internet.
 
 Sure, VR, and AR are impressive mediums that will for sure take over a lot of the things that we currently do on 2D screens. If you try today's VR tech, you can already see glimpses of how social hangouts, games and working virtually will get better in the future.
 
