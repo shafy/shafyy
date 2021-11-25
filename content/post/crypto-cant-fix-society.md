@@ -1,5 +1,5 @@
 ---
-title: "Cryptos can't fix societal, political or economocial problems"
+title: "Cryptos can't fix societal, political or economic problems"
 date: 2021-11-25T10:01:29Z
 draft: false
 ---
