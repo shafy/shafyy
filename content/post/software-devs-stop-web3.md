@@ -13,12 +13,12 @@ By building on the blockchain, you are not a revolutionary for a better, more eq
 
 ## Why does it make the rich richer?
 Cryptos are increasingly used by venture capitalists to create returns quicker than ever before. Simply said, they invest in new crypto startups that then list their crypto on a “reputable” exchange like Coinbase (which is of course also owned by VCs). Then, they create demand for the crypto and sell their initial holdings extremely high. After a while, the gullible fools who thought they are going to the moon realize that they were left holding the bag.
-There is an [interesting analysis by Fais Kahn](https://startupsandecon.substack.com/p/you-dont-own-web3-a-coinbase-curse) why looks at the data and concludes exactly this.
+There is an [interesting analysis by Fais Kahn](https://startupsandecon.substack.com/p/you-dont-own-web3-a-coinbase-curse) where he looks at the data and concludes exactly this.
 
 By building and promoting blockchain, you become part of this hype cycle. Even if you personally don’t pump and dump or have bad intentions, every bit of activity in this space ultimately benefits the Mr. Andreessen and his buddies.
 
 ## Why blockchain doesn’t lead to decentralization
-Decentralization is just a pipe dream sold by institutions trying to enrich themselves to you. Blockchain does not lead to decentralization. It's obvious if you look at major cryptos: a small number of people hold a large amount of the crypto wealth, and a few mining pools control the majority of the mining activity.
+Decentralization is just a pipe dream sold to you by institutions trying to enrich themselves. Blockchain does not lead to decentralization. It's obvious if you look at major cryptos: a small number of people hold a large amount of the crypto wealth, and a few mining pools control the majority of the mining activity.
 
 Why is this happening? The answer is economies of scale. Nvidia lead engineer David Rosenthal makes this point in his 2014 blog post [Economies of Scale in Peer-to-Peer Networks](https://blog.dshr.org/2014/10/economies-of-scale-in-peer-to-peer.html). If you have some time, go have a read. But the main point is this:
 
@@ -42,7 +42,7 @@ All projects and apps that build on blockchains, be it DeFi or NFT, keep promoti
 
 I'll say it again to make it stick: By building and promoting apps and projects based on the blockchain, you become a pawn in this selfish game of chess of the rich. I’m not denying that there might be a few blockchain projects that do real good with the money raised, but they are the absolute minority and do so by promoting an incredibly destructive technology. The end does not justify the means.
 
-My plea is: Don’t do it. Don’t be tempted by the devil to join this get-quick-reach scheme. Go back to building products and services that are not zero-sum games but add real value to the lives of people without fucking everything else up.
+My plea is: Don’t do it. Don’t be tempted by the devil to join this get-rich-quick scheme. Go back to building products and services that are not zero-sum games but add real value to the lives of people without fucking everything else up.
 
 
 **Recommended further reading:**
