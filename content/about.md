@@ -15,7 +15,7 @@ I was born and raised in Zurich, Switzerland and currently live in Berlin, Germa
 
 You can contact me here: canolcer@hey.com
 
-This site uses web monetization. Not because I would make a lot of money, but because I want that this way of paying publishers becomes more commonplace. The idea is that users pay a fixed monthly fee to a service provider like [Coil](https://coil.com) which uses the open protocol Interledger. The money then gets distributed to publishers based on how much time the user spent on Interledger supported websites.
+This site uses [web monetization](https://webmonetization.org). Not because I expect to make significant amounts of dough, but because I want that this way of paying publishers becomes more commonplace. For example, users can use a service like [Coil](https://coil.com) that automatically distributes a monthly amount among sites which the user visited. Technology-wise, they use the open protocol [Interledger](https://interledger.org) which implements the Web Monetization API. And no, Interledger has nothing to do with blockchain.
 
 [Visitor statistics on the excellent Plausible Analytics](https://plausible.io/canolcer.com)
 
