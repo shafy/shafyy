@@ -6,8 +6,9 @@ type: "standard"
 draft: false
 ---
 
-Hey hey! My name is Can Olcer. I'm currently working on two open-source projects: [Fugu](https://fugu.lol), a privacy-friendly product analytics software, and [Mapzy](https://mapzy.io), a store locator.
+Hey hey! My name is Can Olcer. I mainly write about sociotechnological topics.
 
+I'm currently working on two open-source projects: [Fugu](https://fugu.lol), a privacy-friendly product analytics software, and [Mapzy](https://mapzy.io), a store locator.
 
 Previously I created a school that exists only in VR (didn't work out), a plant-based cheese company (didn't work out either) and co-founded a company called [Chimpy](https://heychimpy.com) (worked out).
 
