@@ -1,5 +1,5 @@
 ---
-title: "The future of remote work"
+title: "Hybrid work is not remote work"
 date: 2022-09-08T04:56:38Z
 draft: false
 ---
