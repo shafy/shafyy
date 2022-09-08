@@ -16,4 +16,4 @@ No, hybrid is not remotely remote work. It’s just normal work with a generous 
 
 It took people a long time to realize that working productively while not sitting in the same room, country, or continent is possible. It will take them a long time to realize that what most people call remote work is miles away from the actual thing. And when they do, I for one, will welcome them with open arms to enjoy the freedom and beauty of working remotely.
 
-*I was inspired to write this article when I saw 37signal's job posting for a content writer that asked candidates to submit an article on this topic. I didn't apply for the job because I dont want to work as a content writer, but I still wanted to mention it here.*
+*I was inspired to write this article when I saw [37signal](https://37signals.com)'s job posting for a content writer that asked candidates to submit an article on this topic. I didn't apply for the job because I dont want to work as a content writer, but I still wanted to mention it here.*
