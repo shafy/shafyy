@@ -6,7 +6,7 @@ type: "standard"
 draft: false
 ---
 
-Hey hey! My name is Can Olcer. I mainly write about sociotechnological topics.
+Hey hey! My name is Can Olcer.
 
 I'm currently working on two open-source projects: [Fugu](https://fugu.lol), a privacy-friendly product analytics software, and [Mapzy](https://mapzy.io), a store locator.
 
