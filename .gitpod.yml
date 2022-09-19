@@ -4,7 +4,7 @@ image:
 ports:
   # Hugo server
   - port: 1313
-    onOpen: ignore
+    onOpen: open-browser
 
 github:
   prebuilds:
