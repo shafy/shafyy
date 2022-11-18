@@ -12,6 +12,8 @@ I'm the co-founder of [Ravioli](https://getravioli.de), where we make it simple 
 
 I'm also the co-creator of two open-source projects: [Fugu](https://fugu.lol), a privacy-friendly product analytics software, and [Mapzy](https://mapzy.io), a store locator.
 
+I run a newsletter, where I send out a video of science communicators such as Carl Sagan and others twice a month. It's called [The Cassandra Dispatch](https://cassandradispatch.org/).
+
 Previously I created a school that exists only in VR (didn't work out), a plant-based cheese company (didn't work out either) and co-founded a company called [Chimpy](https://heychimpy.com) (worked out).
 
 I was born and raised in Zurich, Switzerland and currently live in Berlin, Germany.
