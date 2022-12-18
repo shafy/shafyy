@@ -6,6 +6,7 @@ title = "Can's blog"
 [params]
   description = "Can's thoughts and opinions on the world."
   twitterUsername = "canolcer"
+  mastodonUrl = "https://mstdn.social/@can"
   #tagline = "What I think about stuff."
 
 [markup.goldmark.renderer]
