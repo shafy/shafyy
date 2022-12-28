@@ -22,7 +22,7 @@
           {{- end}}
 
           {{ if isset .Site.Params "mastodonurl" -}}
-          <a itemprop="sameAs" href="{{ .Site.Params.mastodonurl }}" title="Mastodon">Mastodon</a>
+          <a itemprop="sameAs" rel="me" href="{{ .Site.Params.mastodonurl }}" title="Mastodon">Mastodon</a>
           {{- end}}
 
           {{ if isset .Site.Params "gpg" -}}
