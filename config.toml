@@ -5,7 +5,7 @@ title = "Can's blog"
 
 [params]
   description = "Can's thoughts and opinions on the world."
-  twitterUsername = "canolcer"
+  blueskyUrl = "https://bsky.app/profile/canolcer.com"
   mastodonUrl = "https://mstdn.social/@can"
   #tagline = "What I think about stuff."
 

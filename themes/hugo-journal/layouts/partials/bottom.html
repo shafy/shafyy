@@ -17,12 +17,12 @@
           <a itemprop="sameAs" href="https://github.com/{{ .Site.Params.githubUsername }}" title="GitHub">GH</a>
           {{- end }}
 
-          {{ if isset .Site.Params "twitterusername" -}}
-          <a itemprop="sameAs" href="https://twitter.com/{{ .Site.Params.twitterUsername }}" title="Twitter">Twitter</a>
-          {{- end}}
-
           {{ if isset .Site.Params "mastodonurl" -}}
           <a itemprop="sameAs" rel="me" href="{{ .Site.Params.mastodonurl }}" title="Mastodon">Mastodon</a>
+          {{- end}}
+
+          {{ if isset .Site.Params "blueskyurl" -}}
+          <a itemprop="sameAs" href="{{ .Site.Params.blueskyurl }}" title="Bluesky">Bluesky</a>
           {{- end}}
 
           {{ if isset .Site.Params "gpg" -}}
