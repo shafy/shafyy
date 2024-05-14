@@ -14,7 +14,7 @@ It is sexist, ageist, creepy, cringe and icky. Don't believe me? [Watch the vide
 
 How is it possible that something like this makes it out the door? Were there no real adults, women, or otherwise people with some common sense and empathy around who said something like "WTF?!" upon seeing the first internal demo?
 
-From a technical perspective, this model doesn't improve on existing model's reasoning capabilities. So, in classic OpenAI fashion, this is a very hyped up product announcement. This is not the beginning of an exponential curve, it's the end of a logarithimc one.
+From a technological perspective, this model doesn't improve on existing model's "reasoning" capabilities. So, in classic OpenAI fashion, this is a very hyped up product announcement. This is not the beginning of an exponential curve, it's the end of a logarithimc one.
 
 Still, it's concerning that people use LLMs for all kind of shit. Either to produce bullshit on purpose, or because they're too lazy too look up information online and use common sense to verifiy it. Now, with this always-on, flirty pocket-girlfriend, LLMs are also going to have a negative impact on many young male's social lives and mental health. I'm an optimistic person, but it's hard to not be pessimistic and cynical seeing the developments in this field in the past few years. Hope I'm wrong.
 
