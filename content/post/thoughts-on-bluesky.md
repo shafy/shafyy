@@ -45,7 +45,7 @@ Compare this to Mastodon, where you can easily switch to a new server and most y
 
 That's the reason why, if you look at today's landscape, there are no alternative Relays to the main one run by Bluesky Social, PBC.
 
-Bluesky Social, PBC could change ATProto so that it's possible for users to switch to a new Relay and still be able to interact with everybody else on other Relays. Doing this will, of course, complicate the Bluesky service, a point that is often made when comparing Bluesky to Mastodon. That it's much easier, because you don't need to care about servers, and you can search and find posts and users easily. Well yes, but that's because it's fucking centralized. There are certain inalienable trade-offs that come with decentralization, and Bluesky Social, PBC has decided to not make them but still pose as an open protocol. They cannot have their cake, and it it, too.
+Bluesky Social, PBC could change ATProto so that it's possible for users to switch to a new Relay and still be able to interact with everybody else on other Relays. Doing this will, of course, complicate the Bluesky service, a point that is often made when comparing Bluesky to Mastodon. That it's much easier, because you don't need to care about servers, and you can search and find posts and users easily. Well yes, but that's because it's fucking centralized. There are certain inalienable trade-offs that come with decentralization, and Bluesky Social, PBC has decided to not make them but still pose as an open protocol. They cannot have their cake, and eat it, too.
 
 Now, let's see why Bluesky Social, PBC does not have an incentive to create a truly open protocol.
 
@@ -75,7 +75,7 @@ Finally, they can become a non-profit company. Although this one is very hard to
 
 ## Still better than ExTwitter
 
-To be clear: I want Bluesky to succeed and become a truly open network. However, I don't see it happening the way things are going now. Should use stop using Bluesky? No, it's still better than using ExTwitter – at least they are currently not owned by a fascist man-baby, and the Trust and Safety team at Bluesky seems to be doing a good job. But be aware that you won't be able to just pack up your followers and switch to competing service on ATProto if one day Bluesky starts going south. That's something that you can do at Mastodon. And sure, Mastodon is far from perfect and comes with its own set of problems, but at least it is decentralized.
+To be clear: I want Bluesky to succeed and become a truly open network. However, I don't see it happening the way things are going now. Should you stop using Bluesky? No, it's still better than using ExTwitter – at least they are currently not owned by a fascist man-baby, and the Trust and Safety team at Bluesky seems to be doing a good job. But be aware that you won't be able to just pack up your followers and switch to competing service on ATProto if one day Bluesky starts going south. That's something that you can do at Mastodon. And sure, Mastodon is far from perfect and comes with its own set of problems, but at least it is decentralized.
 
 I will keep using Bluesky and Mastodon for now. I find interesting content on both. But I will not live under the illusion that Bluesky is the same as Mastodon when it comes to decentralization and openness.
 
